@@ -28,3 +28,8 @@ Descriptive analysis helps understand restaurant trends
 📊 Statistical Summary
 
 <img width="1126" height="452" alt="image" src="https://github.com/user-attachments/assets/a9437658-0647-4239-9249-1f35e335c481" />
+
+📊 Mean, Median & Standard Deviation
+
+<img width="541" height="763" alt="image" src="https://github.com/user-attachments/assets/e363aac6-92de-4e1a-a257-f6f9965a240b" />
+
