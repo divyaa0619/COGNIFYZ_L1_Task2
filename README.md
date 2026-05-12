@@ -37,4 +37,7 @@ Descriptive analysis helps understand restaurant trends
 
 <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/f3ec9b2d-a8bb-447b-bd27-78843483e8e8" />
 
+🏙️ Top Cities with Most Restaurants
+
+<img width="1014" height="539" alt="image" src="https://github.com/user-attachments/assets/155b81ec-84cb-4c47-9193-d54d21e68e2b" />
 
