@@ -33,3 +33,8 @@ Descriptive analysis helps understand restaurant trends
 
 <img width="541" height="763" alt="image" src="https://github.com/user-attachments/assets/e363aac6-92de-4e1a-a257-f6f9965a240b" />
 
+🌍 Country Code Distribution
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/f3ec9b2d-a8bb-447b-bd27-78843483e8e8" />
+
+
