@@ -45,4 +45,9 @@ Descriptive analysis helps understand restaurant trends
 
 <img width="1005" height="617" alt="image" src="https://github.com/user-attachments/assets/b5a6dd83-7558-44d9-a960-1899f40e8ac5" />
 
+🏆 Top Cities & Cuisines O
+
+<img width="642" height="672" alt="image" src="https://github.com/user-attachments/assets/494eb69d-0564-48e3-9785-024cd8a6dfa5" />
+
+
 
