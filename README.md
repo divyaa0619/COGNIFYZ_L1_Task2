@@ -10,6 +10,7 @@ Seaborn
 Google Colab
 
 📌 Steps Performed
+
 1.load dataset
 2.Analyzed restaurant distribution across cities
 3.Explored most common cuisines
@@ -17,11 +18,12 @@ Google Colab
 4.Computed mean, median, and standard deviation
 
 💡 Key Insights
-Numerical columns provide useful statistical insights
-Some cities contain significantly more restaurants than others
-Certain cuisines are more popular across restaurants
-Country distribution is uneven in the dataset
-Descriptive analysis helps understand restaurant trends
+
+1.Numerical columns provide useful statistical insights
+2.Some cities contain significantly more restaurants than others
+3.Certain cuisines are more popular across restaurants
+4.Country distribution is uneven in the dataset
+5.Descriptive analysis helps understand restaurant trends
 
 📷 Output
 
